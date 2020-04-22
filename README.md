@@ -1,2 +1,2 @@
 # Exercises_Object_Oriented_Programming
-Python classes, objects, attributes
+Python OOP classes, objects, attributes, methods
